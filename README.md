@@ -1,7 +1,7 @@
-# Lab1_Software_Testing
-# Các Test Case
-# Use Case TC01 : Nhập User Password đúng
-# Use Case TC02 : Nhập User đúng Password sai
-# Use Case TC03 : Nhập User sai Password đúng
-# Use Case TC04 : Không nhập cả hai trường User, Password
-# Use Case TC05 : Nhập User sai Password sai
+# Software Testing HKI - (2020 - 2021) :label:
+###### Lecturer :  PhD. Tran Son Hai :man_teacher:
+###### Student :  Nguyen Quoc Cuong - 44.01.104.061 :man_student:
+
+
+
+
