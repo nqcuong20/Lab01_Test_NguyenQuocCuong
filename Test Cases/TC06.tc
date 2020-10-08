@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC02</name>
+   <name>TC06</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9557d8c1-4ce6-4373-8098-4b3f3883ca89</testCaseGuid>
+   <testCaseGuid>ef72f3f1-2b74-4732-8d26-9205cdc4ecd2</testCaseGuid>
    <variable>
       <defaultValue>'John Doe'</defaultValue>
       <description></description>
-      <id>0cb60651-e8d9-4e4e-8299-97fb941b12d5</id>
+      <id>f0a62fbe-be6b-42b6-bd51-a486535206bb</id>
       <masked>false</masked>
       <name>variable</name>
    </variable>
