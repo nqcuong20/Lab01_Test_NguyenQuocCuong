@@ -17,18 +17,18 @@
 *	Wait for element present
 *	Verify element text
 *	Create Variable
-*	Push up GitHub in branch `Lab02` 
+*	Push up **GitHub** in branch `Lab02` 
 ### :black_circle:  Lab03: 
 * 5 Test case Type Manual trên Sheet
-*	Push up GitHub in branch `Lab03`
+*	Push up **GitHub** in branch `Lab03`
 ### :black_circle:  Lab04: 
 * Create Environments | Execution Profiles
-*	Push up GitHub in branch `Lab04 `
+*	Push up **GitHub** in branch `Lab04 `
 ### :black_circle:  Lab05:
 * Email results
 ### :black_circle:  Lab06:
 * Test Execution REPORTS
-*	Push up GitHub in branch `Lab06` 
+*	Push up **GitHub** in branch `Lab06` 
 ### :black_circle:  Lab07:
 * Spy Web Utility
 ### :black_circle:  Lab08:
