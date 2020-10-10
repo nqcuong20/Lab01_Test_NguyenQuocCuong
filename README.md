@@ -2,4 +2,4 @@
 *	Wait for element present
 *	Verify element text
 *	Create Variable
-*	Push up GitHub in branch `Lab02` 
+*	Push up **GitHub** in branch `Lab02` 
