@@ -9,6 +9,6 @@
   
 
 *	Run Test Case 
-*	Tạo test suite, add 5 test case login vào
-*	Run test suite
+*	Tạo Test Suite, **Add** 5 Test Case login vào
+*	Run Test Suite
 *	Push up **GitHub** in branch `Lab01` 
