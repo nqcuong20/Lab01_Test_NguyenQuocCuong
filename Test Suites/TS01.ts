@@ -12,33 +12,33 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>38067946-2ec4-4059-b21d-927ac3ccc6cc</testSuiteGuid>
    <testCaseLink>
-      <guid>d94d4484-5df9-4110-8614-e4860081ce44</guid>
+      <guid>76c211b6-4a55-41db-8522-9d917d2e48f4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC05</testCaseId>
+      <testCaseId>Test Cases/TC01</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>5456423e-f6b7-468f-9484-c619f6d931b9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC04</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8c8c9edf-6ee3-4a6b-9da7-66402d080403</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC03</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>db25f7a0-f1a4-4952-a2b0-0f0fae4a3544</guid>
+      <guid>b6cbbe80-1aa5-4bd0-a7a4-c2c666a7f7f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC02</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>76c211b6-4a55-41db-8522-9d917d2e48f4</guid>
+      <guid>684b908a-bf0a-4311-8e85-a9cc7aa852d4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC01</testCaseId>
+      <testCaseId>Test Cases/TC03</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3a33b816-051c-4531-9a8e-3ce5f085fd21</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC04</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c53b5d1f-930b-47b8-ad94-788629e65303</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC05</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
