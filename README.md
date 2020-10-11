@@ -1,6 +1,4 @@
 ## Software Testing HKI - (2020-2021) :label:
-###### Lecturer : PhD.Tran Son Hai :man_teacher:
-###### Student : Nguyen Quoc Cuong - 44.01.104.061 :man_student:
 ##### Lecturer : PhD.Tran Son Hai :man_teacher:
 ##### Student : Nguyen Quoc Cuong - 44.01.104.061 :man_student:
 
@@ -9,7 +7,7 @@
 *	Đăng ký Katalon studio và tải về + cài đặt
 *	Sử dụng tính năng record web tạo test case kiểm tra login trên trang https://katalon-demo-cura.herokuapp.com/
 #### :octocat: Xem các bài làm bằng cách chọn các Branch 
-![Image of Yaktocat](https://scontent-xsp1-1.xx.fbcdn.net/v/t1.0-9/120850030_1129646840784199_8188779020234927007_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=onbT427bPLwAX9u5qNi&_nc_ht=scontent-xsp1-1.xx&oh=a60b16d0ec574eae9331c6778b94ff13&oe=5FA4CB8C)
+![Image of Yaktocat](https://scontent-xsp1-2.xx.fbcdn.net/v/t1.0-9/120970583_1132961947119355_738689691305086001_n.jpg?_nc_cat=100&_nc_sid=730e14&_nc_ohc=l-E1KCD35DAAX_KwDgt&_nc_ht=scontent-xsp1-2.xx&oh=4d634035db52eeca163fafbcc01a2b88&oe=5FA6C800)
 
 ### Practical Exercises:
 ### :black_circle:  Lab01: 
