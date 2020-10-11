@@ -4,5 +4,12 @@
    <name>TC05</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>1c7fee12-0ad6-477f-ab48-3d707667f375</testCaseGuid>
+   <testCaseGuid>cbe3020c-ec69-47dd-b762-cf6f57730aef</testCaseGuid>
+   <variable>
+      <defaultValue>'Cuong'</defaultValue>
+      <description></description>
+      <id>48fc75a8-50db-4a50-96fe-78607c3caeec</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
 </TestCaseEntity>
