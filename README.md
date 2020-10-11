@@ -1,7 +1,7 @@
 ### :black_circle:  Lab05: 
 *	Đăng ký **Gmail** và tạo **Email notifications**
-- **1**. Configure Email Settings
-  - **Projects** > **Settings** > **Email**
+- **Configure Email Settings**
+  - Projects ** > ** Settings ** > ** Email
   - **Đối với Gmail:**
     - **Host:** smtp.gmail.com
     - **Port:** 465
