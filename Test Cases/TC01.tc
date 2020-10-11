@@ -6,10 +6,17 @@
    <comment></comment>
    <testCaseGuid>c2be2b5f-504a-4300-a720-51d47171fd38</testCaseGuid>
    <variable>
-      <defaultValue>'John Doe'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>ec15e26f-76a5-46e2-b95c-80abcfd9082e</id>
       <masked>false</masked>
       <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb59d089-a85f-465c-8e0c-6de22bf74de7</id>
+      <masked>false</masked>
+      <name>password</name>
    </variable>
 </TestCaseEntity>
