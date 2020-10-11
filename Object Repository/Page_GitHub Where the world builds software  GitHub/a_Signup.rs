@@ -72,7 +72,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;html-fluid&quot;]/body[@class=&quot;logged-out env-production page-responsive body-fluid header-overlay intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header-old header-logged-out js-details-container Details position-relative f4 py-2&quot;]/div[@class=&quot;container-xl d-lg-flex flex-items-center p-responsive&quot;]/div[@class=&quot;HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto&quot;]/div[@class=&quot;d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left&quot;]/a[@class=&quot;HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1&quot;]</value>
+      <value>/html[@class=&quot;html-fluid&quot;]/body[@class=&quot;logged-out env-production page-responsive body-fluid header-overlay&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header-old header-logged-out js-details-container Details position-relative f4 py-2&quot;]/div[@class=&quot;container-xl d-lg-flex flex-items-center p-responsive&quot;]/div[@class=&quot;HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto&quot;]/div[@class=&quot;d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left&quot;]/a[@class=&quot;HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
